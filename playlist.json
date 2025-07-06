@@ -1,0 +1,1747 @@
+[
+    {
+        "tvg-id": "tsports_live_1",
+        "tvg-name": "Tsports Live 1",
+        "tvg-country": "IN",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "tvg-chno": "tspost_live",
+        "group-title": "",
+        "name": "T sports",
+        "url": "https:\/\/live.tsports.com\/mobile_hls\/tsports_live_1\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "",
+        "tvg-country": "BD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "tvg-chno": "",
+        "group-title": "",
+        "name": "Deepto TV",
+        "url": "https:\/\/byphdgllyk.gpcdn.net\/hls\/deeptotv\/0_1\/index.m3u8"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "",
+        "tvg-country": "BD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "tvg-chno": "",
+        "group-title": "",
+        "name": "Duronto TV",
+        "url": "https:\/\/tvsen6.aynaott.com\/durontotv\/index.m3u8"
+    },
+    {
+        "tvg-id": "",
+        "tvg-name": "",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "",
+        "name": "Sangeet Bangla",
+        "url": "https:\/\/cdn-4.pishow.tv\/live\/1143\/master.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "9XM",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "9XM",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/manifest\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/9xm\/a731c680-6a62-4174-bc98-186fe654724a\/0.m3u8"
+    },
+    {
+        "tvg-id": "star_jalsha",
+        "tvg-name": "",
+        "tvg-country": "IN",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "tvg-chno": "",
+        "group-title": "",
+        "name": "Enterr10 Bangla",
+        "url": "https:\/\/live-bangla.akamaized.net\/liveabr\/pub-iobanglakp3sff\/live_360p\/chunks.m3u8"
+    },
+    {
+        "tvg-id": "jungle_book",
+        "tvg-name": "Jungle Book",
+        "tvg-country": "IN",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "tvg-chno": "jungle_book",
+        "group-title": "",
+        "name": "Jungle Book",
+        "url": "https:\/\/cc-4bhi5osabejc9.akamaized.net\/v1\/manifest\/3722c60a815c199d9c0ef36c5b73da68a62b09d1\/cc-4bhi5osabejc9\/b2a0235d-a748-4f7c-b1dc-9bdc8e780b6d\/0.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Jago News 24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Jago News 24",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/jagonews24.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Independent TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Independent TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/independent-8-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Desh TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Desh TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/deshtv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "News 24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "News 24",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/news24local.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Makkah Live New",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Makkah Live New",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/makkah.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "BTV News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "BTV News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/btvbd-office-sg.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Eakattor TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Eakattor TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/ekattor.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Ekhon TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Ekhon TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/globaltv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Jamuna TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Jamuna TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/jamuna-test-sample-ok.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "ATN News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "ATN News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnws-sg.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Songsad TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Songsad TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/songsodtv-world.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "BTV National",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "BTV National",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/btvnational1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "BTV Chittagong",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "BTV Chittagong",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/btvnational-ctg.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "DBC News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "DBC News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/dbcnews.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Channel 24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Channel 24",
+        "url": "https:\/\/ch24play.ncare.io\/live\/channel24.926f3953.m3u8?t=b738cb0516564076a627a7beffadc188"
+    },
+    {
+        "tvg-id": "News 24\/7",
+        "tvg-name": "Somoy TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News 24\/7",
+        "name": "Somoy TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/somoyt000011226615544544.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "ATN Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "ATN Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Bangla Vision",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Bangla Vision",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/banglav000.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "MY TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "MY TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/mytv-up-off.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Mohona TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Mohona TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/mohonatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Channel 9",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Channel 9",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/channel9hd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "RTV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "RTV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/rtv-sg.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Boishakhi TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Boishakhi TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/boishakhitv-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Ananda TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Ananda TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/anandatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "ATN Bangla [Source 2]",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "ATN Bangla [Source 2]",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnbd-8-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "SATV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "SATV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Channel S BD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Channel S BD",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/channels.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Bangla TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Bangla TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/banglatvhd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Bijoy TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Bijoy TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/bijoy00.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Teen Prime",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Teen Prime",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/tenprime.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Asian TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Asian TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/asian-test-sample-ok-d.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Channel I",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Channel I",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/channeli-8-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Global TV Bangladesh",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Global TV Bangladesh",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/Global-tv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Ekushey TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Ekusheys TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/ekusheytv-8-org.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Cumilla 24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Cumilla 24",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cumilla24bd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "PBN TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "PBN TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/pbntv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "News & Drama",
+        "tvg-name": "Gazi TV \/ G tv",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "News & Drama",
+        "name": "Gazi TV \/ G tv",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/gazibdz.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Flix SRk TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Flix SRk TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/flixsrktv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Times 24 TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Times 24 TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/times24tv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Rajdhani TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Rajdhani TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/rajdhanitv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Varendra TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Varendra TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/varendratv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Movie Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Movie Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/moviebanglalink2.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Jagoroni TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Jagoroni TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/jagoronitv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Ruposhibangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Ruposhibangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/ruposhibangla.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "NAN TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "NAN TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/nantv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Shadin BD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Shadin BD",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/shadinbd1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "News 21 BD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "News 21 BD",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/news21bd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "BNN TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "BNN TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/satvoff5666.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "IPTV",
+        "tvg-name": "Parboto TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "IPTV",
+        "name": "Parboto TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/parbototv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Sports Tennis",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Sports Tennis",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/sportstak\/SPORTSTAK_SCTE.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Outside TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Outside TV",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/sportstak\/SPORTSTAK_SCTE.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Trace Sports",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Trace Sports",
+        "url": "https:\/\/lightning-tracesport-samsungau.amagi.tv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "CY Dubai",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "CY Dubai",
+        "url": "https:\/\/dmitwlvvll.cdn.mangomolo.com\/dubaisportshd\/smil:dubaisportshd.smil\/chunklist_b1300000.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Moto Racing",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Moto Racing",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/motorracing\/master.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Sports Connect",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Sports Connect",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/sportstak\/SPORTSTAK_SCTE.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "Court Sports Network",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "Court Sports Network",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/manifest\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/court-sports-network\/7c96e8a8-9be8-487f-9509-cb2fa31f35d4\/1.m3u8"
+    },
+    {
+        "tvg-id": "Sports",
+        "tvg-name": "KIK Sports",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Sports",
+        "name": "KIK Sports",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/kiksp.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Geo TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Geo TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/geotv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Nobbano TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Nobbano TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cmtv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Express TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Express TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/expresspk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "HUM TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "HUM TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/hum.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Global Fashion Channel",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Global Fashion Channel",
+        "url": "https:\/\/pubgfc.teleosmedia.com\/linear\/globalfashionchannel\/globalfashionchannel\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Bangla 21 TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Bangla 21 TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/bangla21tv000889956-sg.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Movie Action",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Movie Action",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/movieaction.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Hollywood Desi",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Hollywood Desi",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/bo1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Bollywood Movie",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Bollywood Movie",
+        "url": "https:\/\/amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv\/playlist\/amg00864-shemarooenterta-shemabollywood-ono\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Lotus Macau",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Lotus Macau",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/lotusmacautv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "The Movie Club",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "The Movie Club",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/bo2.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "B24C",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "B24C",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/b24c.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Masala Entertainment Plus tvg-logo=",
+        "group-title": "Entertainment",
+        "name": "Masala Entertainment Plus",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/masala-entertainment-plus\/master.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Channel A1",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Channel A1",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cha1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Aur Life HD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Aur Life HD",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/aurtvpk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Sananda TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Sananda TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/sanandatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Dim TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Dim TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/dimtv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Tara TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Tara TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/tara.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Matribhumi TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Matribhumi TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/matribhumitv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Alpona TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Alpona TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/alponatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "BA TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "BA TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/batvuk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "TV One",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "TV One",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/tvonepk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Apna Ch",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Apna Ch",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/apnach.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "See TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "See TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/seetv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Urdu 1",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Urdu 1",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/urdu1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Eye TV Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Eye TV Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\/eyetv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Entertainment",
+        "tvg-name": "Movie Plus",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Entertainment",
+        "name": "Movie Plus",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/movieplus.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Birit Asia TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Birit Asia TV",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/manifest\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/britasiatv\/ad785215-9b76-421c-b7c9-ec8c7670ceff\/0.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Trace Urban",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Trace Urban",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/traceurban.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "V2 Beat TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "V2 Beat TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/v2beattv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Joo Music",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Joo Music",
+        "url": "https:\/\/livecdn.live247stream.com\/joomusic\/tv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "9XM",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "9XM",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/9xmin.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "ATN Music",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "ATN Music",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnmusic.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Balle Balle",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Balle Balle",
+        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Saga Music",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Saga Music",
+        "url": "https:\/\/mcncdndigital.com\/balleballetv\/tracks-v1a1\/mono.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Masti",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Masti",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/mastiiiin.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "91NRG",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "91NRG",
+        "url": "https:\/\/5c389faa13be3.streamlock.net\/onweb\/live\/chunklist_w282239334.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "E24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "E24",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/e24in.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "9x Jalwa",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "9x Jalwa",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/9xjalwain.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Zoom",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Zoom",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/zoomin.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Music India",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Music India",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/musicindiain.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Burno TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Burno TV",
+        "url": "https:\/\/stream1.xdevel.com\/video0s975758-1047\/stream\/chunks.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Colosal TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Colosal TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/colosal.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "ShowBox",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "ShowBox",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/showboxin.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "8XM",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "8XM",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/8xmpk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Music Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Music Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/musicbangla44.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Music Bangla TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Music Bangla TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/musicbangla2025.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Music",
+        "tvg-name": "Channel 5",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Music",
+        "name": "Channel 5",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/musicbangla.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Tropoja TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Tropoja TV",
+        "url": "https:\/\/live.prostream.al\/al\/smil:tropojatv.smil\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "CGTN Documentary",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "CGTN Documentary",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cgtndoc.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Discover Pakistan",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Discover Pakistan",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/discoverpakistan.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Nexus TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Nexus TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/nexustv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "RT TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "RT TV",
+        "url": "https:\/\/rt-rtd.rttv.com\/dvr\/rtdoc\/playlist_4500Kb.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Trace Urban",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Everyday Heros",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/everyday-heroes\/master.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Wid Earth",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Wid Earth",
+        "url": "https:\/\/cdn-ue1-prod.tsv2.amagi.tv\/linear\/amg01290-wildearth-oando\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Wid Earth [ Source 2 ]",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Wid Earth [ Source 2 ]",
+        "url": "https:\/\/d2f9g9rfw2kx84.cloudfront.net\/playlist\/amg01290-wildearth-oando\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Open TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Open TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/boulive.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Real Wlid",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Real Wlid",
+        "url": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg00426-littledotstudio-realwildnz-samsungnz\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Real Wlid [ Source 2 ]",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Real Wlid [ Source 2 ]",
+        "url": "https:\/\/amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv\/playlist\/amg00426-littledotstudio-realwildnz-samsungnz\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "Orbits Hub",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "Military Times",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/sightline\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "VOA 52 Documentary",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "VOA 52 Documentary",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/voadoc.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "ESA TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "ESA TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/esatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Documentary & Education",
+        "tvg-name": "UNTV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Documentary & Education",
+        "name": "UNTV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/untv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "POP Up",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "POP Up",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/popup.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "CON Tv",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "CON Tv",
+        "url": "https:\/\/kidoodletv-kdtv-1-us.samsung.wurl.tv\/1200.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Kids TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Kids TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/rongeentv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Kids TV India",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Kids TV India",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/kids-tv-india-nursery-rhymes-and-baby-songs\/master.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Toonz Kids",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Toonz Kids",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/toonzkids\/master.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Zoo Moo",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Zoo Moo",
+        "url": "https:\/\/zoomoo-samsungau.amagi.tv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "PBS Kids",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "PBS Kids",
+        "url": "https:\/\/2-fss-2.streamhoster.com\/pl_140\/amlst%3a200914-1298290\/chunklist_b2000000.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Kids Creation",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Kids Creation",
+        "url": "https:\/\/flc2.technohaat.com\/kidscreation_test\/index.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Tiny Pop",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Tiny Pop",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/tinypop\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Kids Max",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Kids Max",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/duronto.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Pop",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Pop",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/pop.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kids",
+        "tvg-name": "Baby Shark",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kids",
+        "name": "Baby Shark",
+        "url": "https:\/\/newidco-babysharktv-1-eu.rakuten.wurl.tv\/1200.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Express News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Express News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/expressnews.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Amar Bangla TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Amar Bangla TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/amarbanglatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Mon TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Mon TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/montv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Amar Digital",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Amar Digital",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/amardigital.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Network 10",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Network 10",
+        "url": "https:\/\/network10.livebox.co.in\/network10hls\/live.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Somoy Kolkata",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Somoy Kolkata",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/samaykolkata.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Home TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Zodiak TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/zodiaktv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Bangla + HD",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Bangla + HD",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/banglaplushd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Zillar Barta",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Zillar Barta",
+        "url": "https:\/\/live-stream.utkalbongo.com\/utkalbongo\/stream18\/hls\/zillarbartalive.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "CTV N AKD Plus",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "CTV N AKD Plus",
+        "url": "https:\/\/akdnetwork.co.in\/live\/ctvn\/index.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "HIGH News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "HIGH News",
+        "url": "https:\/\/highmedia.livebox.co.in\/HIGHNEWShls\/LIVE.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Onkar Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Onkar Bangla",
+        "url": "https:\/\/5dd3981940faa.streamlock.net\/onkarentertainment\/onkarentertainment\/chunklist_w1855751334.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Ananda Barta",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Ananda Barta",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/anandabarta.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Sangeet Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Sangeet Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/sbin.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Home TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Home TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/hometv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Kolkata",
+        "tvg-name": "Tara TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Kolkata",
+        "name": "Tara TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/taratvinn.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "ATN Islamic TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "ATN Islamic TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnislamictv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Makkah TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Makkah TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/makkahtv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Deen TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Deen TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/deentv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Madina TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Madina Live",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/madina.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Peace TV Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Peace TV Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/peacetvban.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Salam TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Salam TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/salamtvuk1.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Madani TV Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Madani Ch Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/madanitvbangla.stream1\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Islam Channel",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Islam Channel",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/islamchannel.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Iqraa",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Iqraa",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/iqraa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Islam Channel Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Islam Ch Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/islamchbangla.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Eman Channel",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Eman Channel",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/eman.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Islam Tv",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Islam Tv",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/islamtv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Iqra Tv UK",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Iqra Tv UK",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/iqratvuk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "i TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "i Tv USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/itvusa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Religious",
+        "tvg-name": "Azan Tv Canada",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Religious",
+        "name": "Azan Tv Canada",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/azantv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Wedding Tv ( Love Stories )",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Wedding Tv ( Love Stories )",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/wedding-tv-by-love-stories-tv\/master.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Cook & Bake",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Cook & Bake",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/cook-and-bake\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "AXS TV Now ( Comedy )",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "AXS TV Now ( Comedy )",
+        "url": "https:\/\/dikcfc9915kp8.cloudfront.net\/hls\/main.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Gusto TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Gusto TV",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/gusto-tv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Craftsy TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Craftsy TV",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/craftsytv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Travel XP",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Travel XP",
+        "url": "https:\/\/travelxp-travelxp-3-nl.samsung.wurl.tv\/1200.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Lifeminute Tv",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Lifeminute Tv",
+        "url": "https:\/\/amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv\/playlist\/amg01468-lifeminutetv-lifeminute-klowdtv\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Always Funny TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Always Funny TV",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/always-funny\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Always Funny",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Always Funny",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/always-funny\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Food Travel & More",
+        "tvg-name": "Go 2 Travel",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Food Travel & More",
+        "name": "Go 2 Travel",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/go2travel.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "CGTN News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "CGTN News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cgtn.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "News Nation",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "News Nation",
+        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/news-nation\/nnnational.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "France 24",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "France 24",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/fr24.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "VOA TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "VOA TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/voa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "DW News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "AL Jazeera",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/aljazeera.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "DW News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "DW News",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/dwnews.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "TRT World",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "TRT World",
+        "url": "https:\/\/tv-trtworld.medya.trt.com.tr\/master_480.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "CNN INT",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "CNN INT",
+        "url": "https:\/\/amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv\/playlist\/amg01448-samsungin-cnnnow-samsungin\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "RT",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "RT",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/rtnews.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "Duniya News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "Duniya News",
+        "url": "https:\/\/intl.dunyanews.tv\/livehd\/ngrp:dunyalivehd_2_all\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "9 News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "9 News",
+        "url": "https:\/\/video.tegnaone.com\/kusa\/live\/v1\/master\/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693\/KUSA-Production\/live\/index.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "Freedom",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "Freedom",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/uatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "VOA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "VOA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/voa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "NHK World",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "NHK World",
+        "url": "https:\/\/nhkworld-tv.akamaized.net\/hls\/live\/2115640\/nhkworld-tv\/index_1M.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "Euro News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "Euro News",
+        "url": "https:\/\/a-cdn.klowdtv.com\/live3\/euronews_720p\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "Press TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "Press TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/presstv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "Africa News",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "Africa News",
+        "url": "https:\/\/rakuten-africanews-1-ie.samsung.wurl.tv\/manifest\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "International News",
+        "tvg-name": "CSB News USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "International News",
+        "name": "CSB News USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/csbnewsbd.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "Iqra TV Bangla",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "Iqra TV Bangla",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/iqrabanglatvoffice.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "ATN Bangla UK",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "ATN Bangla UK",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/atnbanglauk-off.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "TV One",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "TV One",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/tvoneuksni.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "CH S TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "CH S TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/chsukoff.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "NTV UK",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "NTV UK",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/ntvuk00332211.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "ION TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "ION TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/iontvuk.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "Europe Bangla CH",
+        "tvg-name": "Bangla TV UK",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "Europe Bangla CH",
+        "name": "Bangla TV UK",
+        "url": "https:\/\/cdn.ghuddi.live\/tvpage\/Bangla_TV_EU\/Transcoded\/Bangla_TV_EU_1080p\/chunks.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Biswa Bangla TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Biswa Bangla TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/biswabanglatv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "The Channel TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "The Channel TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/thechanneltv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Time TV USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Time TV USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/timetvusa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "IB TV USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "IB TV USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/ibtvus.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Jonmobhumi Tv",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Jonmobhumi Tv",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/jonmobhumitv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "AB TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "AB TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/abtvusa.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Deshi TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Deshi TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/deshitv.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Millennium 24 USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Millennium 24 USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/mnews24.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Millennium TV USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Millennium TV USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/millenniumtv-odr-up2.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "NRB TV Canada",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "NRB TV Canada",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/nrb-eu.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "CB 24 TV",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "CB 24 TV",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/cb24.stream\/playlist.m3u8"
+    },
+    {
+        "tvg-id": "USA & Canada",
+        "tvg-name": "Channel 52 USA",
+        "tvg-logo": "https:\/\/i.postimg.cc\/pdDTZFjr\/image.png",
+        "group-title": "USA & Canada",
+        "name": "Channel 52 USA",
+        "url": "https:\/\/app24.jagobd.com.bd\/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2\/channel25usa.stream\/playlist.m3u8"
+    }
+]
