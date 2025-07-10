@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SonyLiv" tvg-name="SonyLiv" tvg-logo="https://i.ibb.co/PstJ8Qwd/download-2.jpg" group-title="General", SonyLiv
+#EXTINF:-1 tvg-id="SonyLiv" tvg-name="SonyLiv" tvg-logo="https://i.ibb.co/PstJ8Qwd/download-2.jpg" group-title="Sports", SonyLiv
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTINF:-1 tvg-id="T sports" tvg-name="T sports" tvg-logo="https://i.postimg.cc/pdDTZFjr/image.png" group-title="General", T sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
