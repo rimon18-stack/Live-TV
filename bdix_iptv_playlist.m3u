@@ -463,7 +463,7 @@ http://tv.bdiptv.store:80/live/restreax/refstream/93.m3u8
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/t-sports-2.png" group-title="Sports-খেলা", T Sports 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+http://103.15.140.138/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/t-sports-1.png" group-title="Sports-খেলা", T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
@@ -481,7 +481,7 @@ http://tv.bdiptv.store:80/live/restreax/refstream/30776.m3u8
 http://tv.bdiptv.store:80/live/restreax/refstream/30778.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/t-sports.webp" group-title="Sports-খেলা", T Sports
-http://tv.bdiptv.store:80/live/restreax/refstream/218.m3u8
+http://103.15.140.138/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/red-bull-tv.png" group-title="Sports-খেলা", Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
