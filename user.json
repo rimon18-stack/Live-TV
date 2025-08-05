@@ -2,6 +2,9 @@
   "users": {
     "Hacker": {
       "expire": "2025-08-06"
+    },
+        "Google": {
+      "expire": "2024-08-06"
     }
   }
 }
