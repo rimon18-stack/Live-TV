@@ -831,7 +831,7 @@ updateModel();
 Android.showToast("Your app is up to date");
 }
 
-fetch('https://cdn.jsdelivr.net/npm/ytpro', {cache: 'reload'});
+fetch('https://cdn.jsdelivr.net/gh/rimon18-stack/Live-TV@5bcf9ec6de49e8efe9669e254431ac0bf98fb6a3/script.js', {cache: 'reload'});
 fetch('https://cdn.jsdelivr.net/npm/ytpro/bgplay.js', {cache: 'reload'});
 fetch('https://cdn.jsdelivr.net/npm/ytpro/innertube.js', {cache: 'reload'});
 }
@@ -2332,12 +2332,12 @@ Latest Version ${YTProVer} of YTPRO is available , update the YTPRO to get lates
 - Optimized the UI of both Download and Settings menu<br>
 - Fixed the full screen bug<br>
 - Fixed bugs and improved functionality<br>
-- for the full list <u onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/releases');" >click here</u>
+- 
 <br>
 <br>
 <div style="display:flex;">
 <!--<button style="border:0;border-radius:10px;height:30px;width:150px;background:;" onclick="this.parentElement.parentElement.parentElement.remove();">Cancel</button>-->
-<button style="border:0;border-radius:10px;height:30px;width:150px;background:rgba(255,50,50,.7);float:right;" onclick="Android.downvid('YTPRO.zip','https://nightly.link/prateek-chaubey/YTPro/workflows/gradle/main/YTPRO.zip','application/zip');">Download</button>
+<button style="border:0;border-radius:10px;height:30px;width:150px;background:rgba(255,50,50,.7);float:right;" onclick="Android.downvid('YTPRO.zip','https://github.com/rimon18-stack/DownloadApk/raw/refs/heads/main/NewProject21.apk');">Download</button>
 </div>
 
 </div>
