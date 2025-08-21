@@ -2337,7 +2337,7 @@ Latest Version ${YTProVer} of YTPRO is available , update the YTPRO to get lates
 <br>
 <div style="display:flex;">
 <!--<button style="border:0;border-radius:10px;height:30px;width:150px;background:;" onclick="this.parentElement.parentElement.parentElement.remove();">Cancel</button>-->
-<button style="border:0;border-radius:10px;height:30px;width:150px;background:rgba(255,50,50,.7);float:right;" onclick="Android.downvid('YTPRO.zip','https://github.com/rimon18-stack/DownloadApk/raw/refs/heads/main/NewProject21.apk');">Download</button>
+<button style="border:0;border-radius:10px;height:30px;width:150px;background:rgba(255,50,50,.7);float:right;" onclick="Android.downvid('NewProject21.apk','https://github.com/rimon18-stack/DownloadApk/raw/refs/heads/main/NewProject21.apk');">Download</button>
 </div>
 
 </div>
